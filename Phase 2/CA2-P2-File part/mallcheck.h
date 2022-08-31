@@ -1,0 +1,1 @@
+void mallcheck(char* mall);

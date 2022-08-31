@@ -1,0 +1,6 @@
+dani,ball,ali,5000,4
+dani,se,sh,3000,1
+armin,ball,ali,5000,1
+armin,do,sh,2000,7
+dani,pang,sh,9000,5
+armin,pang,sh,9000,2

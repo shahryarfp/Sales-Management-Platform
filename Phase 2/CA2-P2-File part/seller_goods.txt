@@ -1,0 +1,5 @@
+ball,ali,5000,0
+char,ali,4000,4
+se,sh,3000,2
+do,sh,2000,13
+pang,sh,9000,2
